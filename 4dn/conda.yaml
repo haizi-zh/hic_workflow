@@ -1,0 +1,9 @@
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - bwa ==0.7.17
+  - samtools ==1.13
+  - pairtools ==0.3.0
+  - lz4-c ==1.9.3
+  - pairix ==0.3.7
